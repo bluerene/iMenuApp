@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045488685379",
+    "firebase_url": "https://imenu-1234.firebaseio.com",
+    "project_id": "imenu-1234",
+    "storage_bucket": "imenu-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045488685379:android:4d5c433b919cd294",
+        "android_client_info": {
+          "package_name": "com.example.carrene.imenuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045488685379-1rpsqafe6fdbfpsenu61uf75kcv6sef7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXoBZpE-QfkVM7iIt-TFVioVMoY1GoCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
